@@ -1,6 +1,8 @@
 # CS-370
 CS-370 artificial intelligence projects, reinforcement learning, neural networks, and maze agent work.
+
 README Reflection
+
 For this project, I worked on building a pirate intelligent agent in a Jupyter Notebook using reinforcement learning concepts. I was given the project framework, including parts of the environment, the maze structure, and some supporting code for the treasure hunt scenario. I created and completed the main training logic for the agent, including the deep Q-learning process, experience replay behavior, action selection, reward-based learning, and model training steps. I also worked with the neural network model so the agent could learn from past experiences and improve its decisions over time as it searched for the treasure while avoiding failure states.
 
 This project helped me connect my learning from the course to the larger field of computer science. Computer scientists solve problems by designing systems, writing algorithms, testing solutions, and improving performance based on results. Their work matters because computer systems are used in everyday life, business, education, healthcare, transportation, and many other important areas. In this course, I saw how artificial intelligence can help machines learn patterns, make decisions, and solve complex problems that would be difficult to program step by step by hand.
